@@ -1,0 +1,5 @@
+﻿  teil_2.cpp
+c:\users\c_dah\documents\uni\praktika\gdv_praktikum_1\gdv_praktikum_1\teil_2.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\c_dah\documents\uni\praktika\gdv_praktikum_1\gdv_praktikum_1\teil_2.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\c_dah\documents\uni\praktika\gdv_praktikum_1\gdv_praktikum_1\teil_2.cpp(59): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  GDV_Praktikum_1.vcxproj -> C:\Users\c_dah\Documents\Uni\Praktika\GDV_Praktikum_1\Debug\GDV_Praktikum_1.exe
